@@ -1,4 +1,4 @@
-# ENERGIA
+# ENERGÍA EN EL MUNDO
 
 
 ![torre](https://github.com/user-attachments/assets/101e80d8-93bc-4ba3-8d0b-994313ebc04d)
@@ -7,7 +7,7 @@
 
 ## 🌍 Introducción
 
-En el contexto de la crisis climática global, los países enfrentan una presión creciente por reducir sus emisiones de gases de efecto invernadero. Sin embargo, mientras algunos países han avanzado en la transición hacia energías limpias, otros continúan generando grandes cantidades de electricidad a partir de fuentes fósiles. Para compensar sus altos niveles de emisiones, muchos recurren a la compra de créditos de carbono, una herramienta del mercado climático que les permite financiar reducciones de emisiones en otros lugares del mundo.
+Actualmente, los países enfrentan una presión creciente por reducir sus emisiones de gases de efecto invernadero. Sin embargo, mientras algunos países han avanzado en la transición hacia energías limpias, otros continúan generando grandes cantidades de electricidad a partir de fuentes fósiles. Para compensar sus altos niveles de emisiones, muchos recurren a la compra de créditos de carbono, una herramienta del mercado climático que les permite financiar reducciones de emisiones en otros lugares del mundo.
 
 Este proyecto analiza un conjunto de datos energéticos, medioambientales y económicos a nivel mundial, con el objetivo de identificar qué países tienen altos niveles de generación energética y emisiones de CO₂, y cómo se relacionan con prácticas como la compra de créditos de carbono. Entre los indicadores analizados se encuentran:
 
