@@ -1,4 +1,4 @@
-# ENERGIA
+# ENERGÍA EN EL MUNDO
 
 
 ![torre](https://github.com/user-attachments/assets/101e80d8-93bc-4ba3-8d0b-994313ebc04d)
