@@ -11,18 +11,17 @@ Actualmente, los países enfrentan una presión creciente por reducir sus emisio
 
 Este proyecto analiza un conjunto de datos energéticos, medioambientales y económicos a nivel mundial, con el objetivo de identificar qué países tienen altos niveles de generación energética y emisiones de CO₂, y cómo se relacionan con prácticas como la compra de créditos de carbono. Entre los indicadores analizados se encuentran:
 
-Acceso a electricidad y combustibles limpios
+- Acceso a electricidad y combustibles limpios
 
-Capacidad instalada de energía renovable
+- Capacidad instalada de energía renovable
 
-Consumo de energía primaria y su intensidad
+- Consumo de energía primaria y su intensidad
 
-Generación eléctrica por fuente (fósil, nuclear, renovable)
+- Generación eléctrica por fuente (fósil, nuclear, renovable)
 
+- Emisiones anuales de CO₂
 
-Emisiones anuales de CO₂
-
-PIB per cápita y crecimiento económico
+- PIB per cápita y crecimiento económico
 
 El análisis busca destacar la paradoja de los países que, a pesar de contar con recursos y tecnología para reducir emisiones, optan por compensarlas económicamente en lugar de reducirlas directamente. Esto abre el debate sobre la eficacia y la equidad de los mercados de carbono, y plantea interrogantes clave sobre la justicia climática y el verdadero compromiso de las economías más contaminantes.
 
