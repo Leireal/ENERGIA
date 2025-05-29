@@ -33,8 +33,7 @@ df_energy_2['gdp_per_capita'] = (
     .apply(lambda x: x.bfill())
 )
 
-print(df_energy_2['gdp_per_capita'].isna().sum())
-df_energy_2.to_csv('primera_limpieza.csv', index=False)
+df_energy_2.to_csv('ENERGIA\primera_limpieza.csv', index=False)
 
 
 ruta_csv_2 ='ENERGIA\primera_limpieza.csv'
